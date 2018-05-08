@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Çfarë mund të bëj?
 permalink: /contact/
 ---
 
