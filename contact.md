@@ -10,5 +10,6 @@ permalink: /contact/
   <li>Na ndiq në web www.pofletvalbona.org dhe www.toka-albania.org, si dhe në rrjetet sociale</li>
 <li>“Voto” me portofolin tënd. Mëso më shumë mbi investitorët dhe refuzo të mbështetësh bizneset që ata zotërojnë.</li>
 <li>Tregoju përfaqësuesve të zgjedhur, se si ndjehesh. Besoje ose jo, ata duhet të përfaqësojnë interesat e tua dhe ata shqetësohen nëse shumë njerëz u thonë që nuk do t’u japin votën nëse mbështetin hidrocentralet.</li>
+  <li>Firmos peticionin tonë. <a href="http://toka-albania.org/petition-to-save-valbona-valley-np-from-hydropower/" targe="_blank">"Mbroni Valbonën nga hidrocentralet!"</a>
   
 
