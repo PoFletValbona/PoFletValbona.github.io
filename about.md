@@ -4,10 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
-
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Po Flet Valbona (“Valbona Speaks Out”) is an informational campaign presenting the complex issues surrounding hydropower development in Valbona Valley National Park.  By presenting information in a question-and-answer format, Po Flet Valbona creates an atmosphere of discussion, moving from simple concepts to more complex questions.  The Po Flet Valbona materials have been produced by TOKA (The Organization to Conserve the Albanian Alps) [www.toka-albania.org] as part of a project “Per Valbonen, Per Shqiperine” funded by Leviz Albania.
