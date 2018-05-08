@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/PoFletValbona" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: PoFletValbona # replace with your_twitter_username or comment to remove link from footer
-github_username:  toka_albania # replace with your_github_username or comment to remove link from footer
+twitter_username: toka_albania # replace with your_twitter_username or comment to remove link from footer
+github_username:  PoFletValbona # replace with your_github_username or comment to remove link from footer
 instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 social:
   name: Your Name
