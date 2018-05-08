@@ -4,16 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
-
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `_js/scripts.js` and `.config.yml`. 
-
-Check the form below to see it in action!
-
-### Example Formspree contact form with validation and reCaptcha
-
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
-
-{% include form.html %}
-
-{% include modal.html %}
+Çdo veprim i vogël që ti bën për të mbështetur kauzën e Lumit të Valbonës dhe të lumenjve të tjerë në Shqipëri, mund të ketë një impakt drastik në komunitet, në zhvillim dhe në vendimarrje. Më poshtë janë disa sugjerime që do të të mundësojnë TY të bëhesh një mbështetës i rëndësishëm i kauzës:
+<ul>
+  <li>Fotokopjo dhe shpërnda këtë broshurë me njerëzit e tu.</li>
+  <li>Na ndiq në web www.pofletvalbona.org dhe www.toka-albania.org, si dhe në rrjetet sociale</li>
+<li>“Voto” me portofolin tënd. Mëso më shumë mbi investitorët dhe refuzo të mbështetësh bizneset që ata zotërojnë.</li>
+<li>Tregoju përfaqësuesve të zgjedhur, se si ndjehesh. Besoje ose jo, ata duhet të përfaqësojnë interesat e tua dhe ata shqetësohen nëse shumë njerëz u thonë që nuk do t’u japin votën nëse mbështetin hidrocentralet.</li>
+  
+<br><br>
+<p>Mund të na kontaktoni dhe në adresën e emailit: info@example.com</p>
