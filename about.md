@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Rreth nesh
 permalink: /about/
 ---
 
