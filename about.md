@@ -4,4 +4,4 @@ title: Rreth nesh
 permalink: /about/
 ---
 
-Po Flet Valbona (“Valbona Speaks Out”) is an informational campaign presenting the complex issues surrounding hydropower development in Valbona Valley National Park.  By presenting information in a question-and-answer format, Po Flet Valbona creates an atmosphere of discussion, moving from simple concepts to more complex questions.  The Po Flet Valbona materials have been produced by TOKA (The Organization to Conserve the Albanian Alps) [www.toka-albania.org] as part of a project “Per Valbonen, Per Shqiperine” funded by Leviz Albania.
+Po Flet Valbona është një fushatë informative që paraqet një sërë çështjesh komplekse përreth zhvillimit të HEC-eve në Parkun Kombëtar të Luginës së Valbonës. Duke paraqitur informacionin në formatin e pyetje-përgjigjeve. Po Flet Valbona krijon një atmosferë diskutimi që rrëken nga koncepte të thjeshta deri tek pyetje me komplekse. Materialet e Po Flet Valbona janë përgatitur nga shoqata TOKA (Shoqata për Mbrojtjen e Alpeve Shqiptare) <a href="http://toka-albania.org/">www.toka-albania.org/</a> si pjesë e projektit "Për Valbonën, për Shqipërinë" tv financuar nga Lëviz Albania.
