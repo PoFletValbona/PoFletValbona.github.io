@@ -4,8 +4,8 @@ email: uku.sidorela@gmail.com # email for form submission, you also have to chan
 description: Po Flet Valbona është një fushatë informative 
   që paraqet një sërë çështjesh komplekse përreth 
   zhvillimit të HEC-eve në Parkun Kombëtar të Luginës së Valbonës. 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://github.com/PoFletValbona" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: toka_albania # replace with your_twitter_username or comment to remove link from footer
 github_username:  PoFletValbona # replace with your_github_username or comment to remove link from footer
 instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
